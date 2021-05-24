@@ -72,6 +72,20 @@ a:hover {
     font-size: 50px;
 }
 
+input[type="email"]{
+    background-image: url(../img/icons/icons8-login-32.png);
+    background-repeat: no-repeat;
+    background-position: calc(100% - 10px) center;
+    background-size: 1.5rem;
+}
+
+input[type="password"]{
+    background-image: url(../img/icons/key.svg);
+    background-repeat: no-repeat;
+    background-position: calc(100% - 10px) center;
+    background-size: 1.2rem;
+}
+
 /*modile*/
 @media screen and (max-width: 600px) {
     body {
