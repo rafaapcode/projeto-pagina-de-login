@@ -45,6 +45,7 @@ input {
 
 input[type="submit"] {
     width: 100%;
+    cursor: pointer;
 }
 
 a {
