@@ -1,5 +1,8 @@
 # Página de Login 
 
+- Possui o intuito de praticar os conceitos de HTML e CSS e responsividade.
+- Criando uma página genérica de Login.
+
 ## Tecnologias usadas:
 * HTML5
 * CSS3
